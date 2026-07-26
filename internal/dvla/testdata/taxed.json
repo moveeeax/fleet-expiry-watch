@@ -1,0 +1,18 @@
+{
+  "registrationNumber": "AB12CDE",
+  "taxStatus": "Taxed",
+  "taxDueDate": "2026-08-01",
+  "motStatus": "Not valid",
+  "motExpiryDate": "2026-06-12",
+  "make": "VOLVO",
+  "yearOfManufacture": 2012,
+  "engineCapacity": 12777,
+  "co2Emissions": 0,
+  "fuelType": "DIESEL",
+  "markedForExport": false,
+  "colour": "WHITE",
+  "typeApproval": "N3",
+  "revenueWeight": 44000,
+  "wheelplan": "3 AXLE RIGID BODY",
+  "monthOfFirstRegistration": "2012-03"
+}

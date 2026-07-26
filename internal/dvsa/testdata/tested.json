@@ -1,0 +1,57 @@
+{
+  "registration": "AB12CDE",
+  "make": "VOLVO",
+  "model": "FH16",
+  "firstUsedDate": "2012-03-01",
+  "fuelType": "Diesel",
+  "primaryColour": "White",
+  "registrationDate": "2012-03-01",
+  "manufactureDate": "2012-01-18",
+  "engineSize": "12777",
+  "hasOutstandingRecall": "No",
+  "motTests": [
+    {
+      "completedDate": "2024-06-11T09:14:22.000Z",
+      "testResult": "PASSED",
+      "expiryDate": "2025-06-11",
+      "odometerValue": "412300",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "motTestNumber": "111122223333",
+      "dataSource": "DVSA",
+      "defects": []
+    },
+    {
+      "completedDate": "2025-06-09T11:02:47.000Z",
+      "testResult": "FAILED",
+      "odometerValue": "489120",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "motTestNumber": "444455556666",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "text": "Offside front brake disc excessively worn",
+          "type": "DANGEROUS",
+          "dangerous": true
+        }
+      ]
+    },
+    {
+      "completedDate": "2025-06-12T15:41:03.000Z",
+      "testResult": "PASSED",
+      "expiryDate": "2026-06-12",
+      "odometerValue": "489160",
+      "odometerUnit": "MI",
+      "odometerResultType": "READ",
+      "motTestNumber": "777788889999",
+      "dataSource": "DVSA",
+      "defects": [
+        {
+          "text": "Nearside rear tyre worn close to the legal limit",
+          "type": "ADVISORY"
+        }
+      ]
+    }
+  ]
+}
