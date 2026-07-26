@@ -1,0 +1,7 @@
+﻿Plate,Fleet Number,Make,MOT Expiry,Insurance Expiry,Notes
+AB12CDE,101,Volvo,2026-06-12,2027-01-31,first sighting
+ab12 cde,101,Volvo,2026-06-12,2027-01-31,same lorry typed twice
+GAZ 1234,102,DAF,2026-08-01,2027-01-31,Belfast depot
+CF67NPR,103,Scania,12/08/2026,2027-01-31,date typed the British way
+,,,,,row for a lorry that was sold
+DG21 RST,104,MAN,,,new vehicle, nothing recorded yet
