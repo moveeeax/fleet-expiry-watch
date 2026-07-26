@@ -1,7 +1,8 @@
-# Build output
+# Build output. Anchored: an unanchored "fleetwatch" would also match the
+# cmd/fleetwatch source directory.
 /bin/
 /dist/
-fleetwatch
+/fleetwatch
 *.exe
 
 # Go test and coverage artefacts
