@@ -1,0 +1,26 @@
+# Build output
+/bin/
+/dist/
+fleetwatch
+*.exe
+
+# Go test and coverage artefacts
+*.test
+*.out
+coverage.*
+
+# Credentials: the DVSA and DVLA keys live in the environment, never in the repo
+.env
+.env.*
+!config.example.env
+
+# Generated reports (these contain a customer's fleet data)
+*.status.html
+report.csv
+status.html
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
