@@ -35,7 +35,7 @@ Everything except `fleetwatch fetch` runs entirely offline against CSV files.
 
 ## Install
 
-Go 1.25 or newer.
+Go 1.26 or newer.
 
 ```sh
 go install github.com/moveeeax/fleet-expiry-watch/cmd/fleetwatch@latest
@@ -215,5 +215,4 @@ consent and a separate access route), and anything outside Great Britain.
 
 ## Licence
 
-Not yet chosen. Until one is added, no permission to use, copy or distribute this
-code is granted.
+MIT. See [LICENSE](LICENSE).
